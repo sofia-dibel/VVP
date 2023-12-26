@@ -1,0 +1,14 @@
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/bin/Debug/net8.0/MyProgram
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/bin/Debug/net8.0/MyProgram.deps.json
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/bin/Debug/net8.0/MyProgram.runtimeconfig.json
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/bin/Debug/net8.0/MyProgram.dll
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/bin/Debug/net8.0/MyProgram.pdb
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/MyProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/MyProgram.AssemblyInfoInputs.cache
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/MyProgram.AssemblyInfo.cs
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/MyProgram.csproj.CoreCompileInputs.cache
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/MyProgram.dll
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/refint/MyProgram.dll
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/MyProgram.pdb
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/MyProgram.genruntimeconfig.cache
+/Users/sofia.dibel/Documents/Магистратура/Высокопроизводительные вычислительные процессы/MyProgram/obj/Debug/net8.0/ref/MyProgram.dll
